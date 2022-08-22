@@ -30,3 +30,10 @@ Random Forests
 | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | Mean Squared Error | 0.24 | 0.24 | 0.03 | 0.03 | 0.25 | 0.24 | 0.25 | 0.25 | 0.25 | 0.33 | 0.42 | 0.33 | 0.33 |
 | Coefficient of Determination | 0.04 | 0.04 | 0.86 | 0.90 | 0.00 | 0.04 | 0.00 | 0.00 | 0.00 | -0.33 | -0.67 | -0.33 | -0.33 |
+
+| Best Models | Convolutional Neural Network | Random Forests |
+| ------- | ------- | ------- |
+| Test Area Under the ROC Curve | 0.8643 | 0.5580 |
+| Test Accuracy | 0.7700 | 0.5710 |
+| Test Precision | 0.6957 | 0.5750 |
+| Test Recall | 0.9600 | 0.6030 |
