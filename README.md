@@ -39,12 +39,12 @@ Random Forests
 | Test Precision | 0.6957 | 0.5750 |
 | Test Recall | 0.9600 | 0.6030 |
 
-Closer mean squared error is to 0 the better the algorithm performed.
-Closer coefficient of determination is to 1 the better the algorithm performed.
-Closer test area under the ROC curve is to 1 the better the algorithm performed.
-Closer test accuracy is to 1 the better the algorithm performed.
-Closer test precision is to 1 the better the algorithm performed.
-Closer test recall is to 1 the better the algorithm performed.
+Closer mean squared error is to 0 the better the algorithm performed.  
+Closer coefficient of determination is to 1 the better the algorithm performed.  
+Closer test area under the ROC curve is to 1 the better the algorithm performed.  
+Closer test accuracy is to 1 the better the algorithm performed.  
+Closer test precision is to 1 the better the algorithm performed.  
+Closer test recall is to 1 the better the algorithm performed.  
 
 
 -------------------------------------------------------
