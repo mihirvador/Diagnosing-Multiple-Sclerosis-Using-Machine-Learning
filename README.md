@@ -6,21 +6,36 @@ The purpose of this repository is to showcase various Machine Learning algorithm
 **Algorithms/Models**
 
 Ordinary Least Squares
+
 Ridge
+
 Lasso
+
 Elastic-Net
+
 LassoLars
+
 Kernel Ridge
+
 SVR
+
 NuSVR
+
 LinearSVR
+
 DecisionTreeClassifier
+
 Extra Trees
+
 Gradient Boosting Estimator
+
 Hist Gradient Boosting Classifier
 
+
 Best Models
+
 Convolutional Neural Network
+
 Random Forests
 
 
