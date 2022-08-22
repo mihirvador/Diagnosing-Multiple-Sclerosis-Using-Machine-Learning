@@ -46,7 +46,8 @@ Closer test accuracy is to 1 the better the algorithm performed.
 Closer test precision is to 1 the better the algorithm performed.  
 Closer test recall is to 1 the better the algorithm performed.  
 
-
+Usage
 -------------------------------------------------------
-
+There are 2 files in every folder, one is createarrays.py, the other is "algorithmname".py. In "algorithmname".py modify trainingdir and testdir to point to the training and test dataset folders respecively, then run it to train and test the model.  
+The only execption is the Convolutional Neural Network Folder. There are multiple files in that folder, but run Custom.py. The first time, modify noMS_traindir, MS_traindir, noMS_testdir, and MS_testdir to point to the training and test dataset folder for MRI scans with and without multiple sclerosis, Then type "c" to create a Tensorflow record. Run it again, and type "t" to train the model. Run it a third time, and type "p" to test the model. The model can be changed by selected the model by modifying the modelnum to a number 1-6. The models are stored in Models.py. 
 
