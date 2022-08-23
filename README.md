@@ -83,18 +83,18 @@ The Convolutional Neural Network performed the best. It had the largest AUC and 
 Bibliography
 ---------------------
 Ben Dickson. “What Are Convolutional Neural Networks (CNN)?” TechTalks, TechTalks, 6 Jan. 2020, bdtechtalks.com/2020/01/06/convolutional-neural-networks-cnn-convnets/. 
-BrainWeb: Simulated Brain Database, http://www.bic.mni.mcgill.ca/brainweb/. 
-Brownlee, Jason. “How Do Convolutional Layers Work in Deep Learning Neural Networks?” Machine Learning Mastery, 16 Apr. 2020, machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/. 
-Contributor, TechTarget. “What Is a Convolutional Neural Network? - Definition from WhatIs.com.” SearchEnterpriseAI, TechTarget, 26 Apr. 2018, searchenterpriseai.techtarget.com/definition/convolutional-neural-network. 
-DK;, Traboulsee AL;Li. “The Role of MRI in the Diagnosis of Multiple Sclerosis.” Advances in Neurology, U.S. National Library of Medicine, pubmed.ncbi.nlm.nih.gov/16400831/. 
-freeCodeCamp.org. “An Intuitive Guide to Convolutional Neural Networks.” FreeCodeCamp.org, FreeCodeCamp.org, 26 Feb. 2018, www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/. 
-(Kyle), Korkrid Akepanidtaworn. “Breaking down Classification Evaluation Metrics.” Medium, Medium, 21 Sept. 2019, https://kyleake.medium.com/classification-evaluation-scheme-the-breakdown-of-confusion-matrix-7b8066e978aa. 
-“Multiple Sclerosis (MS): Types, Symptoms, and Causes.” Medical News Today, MediLexicon International, www.medicalnewstoday.com/articles/37556. 
-“Multiple Sclerosis.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 12 June 2020, www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269. 
-phadji19. “Datasets.” EHealth Lab, Department of Computer Science, University of Cyprus, www.medinfo.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets. 
-Prabhu. “Understanding of Convolutional Neural Network (CNN) - Deep Learning.” Medium, Medium, 21 Nov. 2019, medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148. 
+BrainWeb: Simulated Brain Database, http://www.bic.mni.mcgill.ca/brainweb/.  
+Brownlee, Jason. “How Do Convolutional Layers Work in Deep Learning Neural Networks?” Machine Learning Mastery, 16 Apr. 2020, machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/.  
+Contributor, TechTarget. “What Is a Convolutional Neural Network? - Definition from WhatIs.com.” SearchEnterpriseAI, TechTarget, 26 Apr. 2018, searchenterpriseai.techtarget.com/definition/convolutional-neural-network.  
+DK;, Traboulsee AL;Li. “The Role of MRI in the Diagnosis of Multiple Sclerosis.” Advances in Neurology, U.S. National Library of Medicine, pubmed.ncbi.nlm.nih.gov/16400831/.  
+freeCodeCamp.org. “An Intuitive Guide to Convolutional Neural Networks.” FreeCodeCamp.org, FreeCodeCamp.org, 26 Feb. 2018, www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/.  
+(Kyle), Korkrid Akepanidtaworn. “Breaking down Classification Evaluation Metrics.” Medium, Medium, 21 Sept. 2019, https://kyleake.medium.com/classification-evaluation-scheme-the-breakdown-of-confusion-matrix-7b8066e978aa.  
+“Multiple Sclerosis (MS): Types, Symptoms, and Causes.” Medical News Today, MediLexicon International, www.medicalnewstoday.com/articles/37556.  
+“Multiple Sclerosis.” Mayo Clinic, Mayo Foundation for Medical Education and Research, 12 June 2020, www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269.  
+phadji19. “Datasets.” EHealth Lab, Department of Computer Science, University of Cyprus, www.medinfo.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets.  
+Prabhu. “Understanding of Convolutional Neural Network (CNN) - Deep Learning.” Medium, Medium, 21 Nov. 2019, medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148.  
 “Random Forest: Introduction to Random Forest Algorithm.” Analytics Vidhya, 24 June 2021, https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/. 
-Rolak, Loren A. “Multiple Sclerosis: It's Not the Disease You Thought It Was.” Clinical Medicine & Research, Marshfield Clinic Research Foundation, Jan. 2003, www.ncbi.nlm.nih.gov/pmc/articles/PMC1069023/. 
-Szabłowski, Bartosz. “How Convolutional Neural Network Works.” Medium, Towards Data Science, 16 Nov. 2020, towardsdatascience.com/how-convolutional-neural-network-works-cdb58d992363. 
-“Understanding Multiple Sclerosis (MS).” Healthline, Healthline, 15 May 2020, www.healthline.com/health/multiple-sclerosis. 
-“What Is MS?” National Multiple Sclerosis Society, www.nationalmssociety.org/What-is-MS. 
+Rolak, Loren A. “Multiple Sclerosis: It's Not the Disease You Thought It Was.” Clinical Medicine & Research, Marshfield Clinic Research Foundation, Jan. 2003, www.ncbi.nlm.nih.gov/pmc/articles/PMC1069023/.  
+Szabłowski, Bartosz. “How Convolutional Neural Network Works.” Medium, Towards Data Science, 16 Nov. 2020, towardsdatascience.com/how-convolutional-neural-network-works-cdb58d992363.  
+“Understanding Multiple Sclerosis (MS).” Healthline, Healthline, 15 May 2020, www.healthline.com/health/multiple-sclerosis.  
+“What Is MS?” National Multiple Sclerosis Society, www.nationalmssociety.org/What-is-MS.  
