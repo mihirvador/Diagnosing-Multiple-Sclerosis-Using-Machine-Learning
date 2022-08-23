@@ -70,7 +70,7 @@ Convert MRIs to NumPy arrays. Flatten these arrays. Shuffle them and split set i
 Creating Neural Network
 -------------------------------------------
 There are multiple models in this project. I will be describing the one that was most accurate.  
-There are 4 modules. Each module contains 3 layers, a 3D convolutional layer, a 3D max pooling layer, and a batch normalization layer. The modules had convolutional layers with 8, 8, 16, and 32 filters respectively. All of the max pooling layers were 2x2x2. This was all fed into a global average pooling layer and then to a fully connected layer with 64 neurons. This was then connected to a dropout layer of 0.3 and then a fully connected layer with 1 neuron and an activation of sigmoid.
+There are 4 modules. Each module contains 3 layers, a 3D convolutional layer, a 3D max pooling layer, and a batch normalization layer. The modules had convolutional layers with 8, 8, 16, and 32 filters respectively. All of the max pooling layers were 2x2x2. This was all fed into a global average pooling layer and then to a fully connected layer with 64 neurons. This was then connected to a dropout layer of 0.3 and then a fully connected layer with 1 neuron and sigmoid activation.
 
 Optimizers and Loss Function
 ---------------------
