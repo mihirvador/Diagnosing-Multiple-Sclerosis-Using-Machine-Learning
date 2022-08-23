@@ -82,6 +82,7 @@ The Convolutional Neural Network performed the best. It had the largest AUC and 
 
 Bibliography
 ---------------------
+
 Ben Dickson. “What Are Convolutional Neural Networks (CNN)?” TechTalks, TechTalks, 6 Jan. 2020, bdtechtalks.com/2020/01/06/convolutional-neural-networks-cnn-convnets/. 
 BrainWeb: Simulated Brain Database, http://www.bic.mni.mcgill.ca/brainweb/.  
 Brownlee, Jason. “How Do Convolutional Layers Work in Deep Learning Neural Networks?” Machine Learning Mastery, 16 Apr. 2020, machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/.  
@@ -97,8 +98,4 @@ Prabhu. “Understanding of Convolutional Neural Network (CNN) - Deep Learning.�
 Rolak, Loren A. “Multiple Sclerosis: It's Not the Disease You Thought It Was.” Clinical Medicine & Research, Marshfield Clinic Research Foundation, Jan. 2003, www.ncbi.nlm.nih.gov/pmc/articles/PMC1069023/.  
 Szabłowski, Bartosz. “How Convolutional Neural Network Works.” Medium, Towards Data Science, 16 Nov. 2020, towardsdatascience.com/how-convolutional-neural-network-works-cdb58d992363.  
 “Understanding Multiple Sclerosis (MS).” Healthline, Healthline, 15 May 2020, www.healthline.com/health/multiple-sclerosis.  
-<<<<<<< HEAD
 “What Is MS?” National Multiple Sclerosis Society, www.nationalmssociety.org/What-is-MS.  
-=======
-“What Is MS?” National Multiple Sclerosis Society, www.nationalmssociety.org/What-is-MS.  
->>>>>>> 1ffe8f1 (initial commit)
