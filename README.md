@@ -69,14 +69,14 @@ Convert MRIs to NumPy arrays. Flatten these arrays. Shuffle them and split set i
 
 Creating Neural Network
 -------------------------------------------
-There are multiple models in this project. I will be describing the one that performed the best.  
+There are multiple models in this project. I will be describing the one that was most accurate.  
 There are 4 modules. Each module contains 3 layers, a 3D convolutional layer, a 3D max pooling layer, and a batch normalization layer. The modules had convolutional layers with 8, 8, 16, and 32 filters respectively. All of the max pooling layers were 2x2x2. This was all fed into a global average pooling layer and then to a fully connected layer with 64 neurons. This was then connected to a dropout layer of 0.3 and then a fully connected layer with 1 neuron and an activation of sigmoid.
 
 Optimizers and Loss Function
 ---------------------
 Loss function was binary cross-entropy. Optimizer was Adam. A batch size of 2, 50 epochs, a learning rate of 2e-4. A learning rate reducer to 1e-5 over the 50 epochs. Early stopping of training after 30 epochs of no change. Each batch was shuffled before each training.
 
-Conclusion and 
+Conclusion and Further Research
 ----------------------
 The Convolutional Neural Network performed the best. It had the largest AUC and was most accurate in diagnosing patients with and without Multiple Sclerosis. In further research more complicated models could be used. Also Recurrent Neural Networks or CycleGANs could also have potential. Moreover, adding in other parameters including sex, age, ethnicity, bloodtype, genetics could greatly increase the complexity of such a model but could potentially improve its accuracy.
 
