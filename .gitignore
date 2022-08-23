@@ -1,0 +1,9 @@
+Convoutional*Neural*Network/__pycache__
+Convoutional*Neural*Network/Visualizations
+Convoutional*Neural*Network/bestClassification.h5
+Convoutional*Neural*Network/currClassification.h5
+Convoutional*Neural*Network/dataset.tfrecords
+Convoutional*Neural*Network/new_dataset.tfrecords
+Convoutional*Neural*Network/new_testset.tfrecords
+Convoutional*Neural*Network/prediction.txt
+Convoutional*Neural*Network/testset.tfrecords

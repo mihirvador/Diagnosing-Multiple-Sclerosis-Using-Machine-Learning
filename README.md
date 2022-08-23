@@ -97,4 +97,8 @@ Prabhu. “Understanding of Convolutional Neural Network (CNN) - Deep Learning.�
 Rolak, Loren A. “Multiple Sclerosis: It's Not the Disease You Thought It Was.” Clinical Medicine & Research, Marshfield Clinic Research Foundation, Jan. 2003, www.ncbi.nlm.nih.gov/pmc/articles/PMC1069023/.  
 Szabłowski, Bartosz. “How Convolutional Neural Network Works.” Medium, Towards Data Science, 16 Nov. 2020, towardsdatascience.com/how-convolutional-neural-network-works-cdb58d992363.  
 “Understanding Multiple Sclerosis (MS).” Healthline, Healthline, 15 May 2020, www.healthline.com/health/multiple-sclerosis.  
+<<<<<<< HEAD
 “What Is MS?” National Multiple Sclerosis Society, www.nationalmssociety.org/What-is-MS.  
+=======
+“What Is MS?” National Multiple Sclerosis Society, www.nationalmssociety.org/What-is-MS.  
+>>>>>>> 1ffe8f1 (initial commit)
